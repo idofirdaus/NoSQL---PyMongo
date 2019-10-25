@@ -8,9 +8,9 @@
   - Validasi : Hasil dari projection tersebut dilakukan validasi apakah sudah sama dengan source datanya
   
   ### Cluster yang Digunakan
-  - **Cluster pada collection movies_initial dan collection hasil projection**:
+  - **Cluster pada collection movies_initial dan collection hasil projection**:<br>
 'mongodb+srv://adminuser12345:adminuser12345@cluster0-phmf4.gcp.mongodb.net/test?retryWrites=true&w=majority'
 
 
- - **Cluster pada collection movies**:
+ - **Cluster pada collection movies**:<br>
 'mongodb+srv://userstudent:admin1234@cluster0-nnbxe.gcp.mongodb.net/test?retryWrites=true&w=majority'
